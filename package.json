@@ -11,6 +11,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yussefrafat/Pizza-NoSQL.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yussefrafat/Pizza-NoSQL/issues"
+  },
+  "homepage": "https://github.com/yussefrafat/Pizza-NoSQL#readme"
 }
